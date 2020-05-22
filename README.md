@@ -2,6 +2,7 @@
 An academic project, Calculator API REST developed in Java and a Client in C#
 
 # Authors:
-Sandra Paola Bravo(User:paolaBravo) & Sergio Andrés Celemin (User:sercel98)#
+- Sandra Paola Bravo (GitHub:@paolaBravo) 
+- Sergio Andrés Celemin (GitHub:@sercel98)
 
 
